@@ -1,28 +1,8 @@
-<<<<<<< CodeSandbox
+https://www.w3schools.com/
 
 # 프론트 엔드 개발
 
-=======
-
-> > > > > > > GitHub
-
-<<<<<<< CodeSandbox
-
 ## 표기법
-
-=======
-
-# 프론트 엔드 개발
-
-> > > > > > > GitHub
-
-<<<<<<< CodeSandbox
-
-- # 사용자가 이름을 지정하는 경우
-
-## 표기법
-
-> > > > > > > GitHub
 
 - 사용자가 이름을 지정하는 경우
 - 여러 단어를 사용해서 이름을 지정하는 경우
@@ -30,7 +10,7 @@
 ```
 html-css : kebab case
 
-html_css : snake case - python
+html_css : snake case - Python
 
 htmlCss : camel case - Javascript, JAVA, C, C++
 
@@ -47,39 +27,16 @@ Web Front End
 - Js - Class : Pascal Case
 ```
 
-<<<<<<< CodeSandbox
-
-## HTML
-
-=======
-
-> > > > > > > GitHub
-
 ## HTML
 
 ### HTML Introduction
 
-<<<<<<< CodeSandbox
-
-=======
 https://www.w3schools.com/html/html_intro.asp
 
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_intro.asp
-
 > 웹페이지 구조 표시
-> <<<<<<< CodeSandbox
 >
-> =======
+> 웹페이지 콘텐츠 표시
 >
-> > > > > > > GitHub
-> > > > > > > 웹페이지 콘텐츠 표시
-> > > > > > > <<<<<<< CodeSandbox
->
-> =======
->
-> - 텍스트 콘텐츠
->   > > > > > > GitHub
 > - 텍스트 콘텐츠
 > - 멀티미디어 콘텐츠 : 이미지, 비디오, 오디오
 
@@ -93,21 +50,10 @@ https://www.w3schools.com/html/html_intro.asp
 
 ### HTML Element
 
-<<<<<<< CodeSandbox
-
-=======
 https://www.w3schools.com/html/html_elements.asp
 
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_elements.asp
-
 > 포함관계
-> <<<<<<< CodeSandbox
 >
-> =======
->
-> - 기준에 따라서 조상요소(Ancestor), 부모요소(Parent), 자식요소(Child), 자손요소(Descendant)
->   > > > > > > GitHub
 > - 기준에 따라서 조상요소(Ancestor), 부모요소(Parent), 자식요소(Child), 자손요소(Descendant)
 
 ```
@@ -117,264 +63,147 @@ https://www.w3schools.com/html/html_elements.asp
   </body>
 </html>
 
+* html : body의 부모요소, h1의 조상요소
 
+* body : html의 자식요소, h1의 부모요소
+
+* h1 : html의 자손요소, body의 자식요소
 ```
 
 ### HTML Attributes
 
-<<<<<<< CodeSandbox
-
-=======
 https://www.w3schools.com/html/html_attributes.asp
 
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_attributes.asp
+### HTML Heading
 
-### HTML Headings
-
-<<<<<<< CodeSandbox
-
-=======
 https://www.w3schools.com/html/html_headings.asp
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_headings.asp
 
 ### HTML Paragraph
 
-<<<<<<< CodeSandbox
-
-=======
 https://www.w3schools.com/html/html_paragraphs.asp
 
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_paragraphs.asp
+### HTML Hyperlink
 
-<<<<<<< CodeSandbox
-
-### HTML Hyperlinks
-
-=======
-
-### HTML Hyperlinks
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_links.asp
+https://www.w3schools.com/html/html_links.asp
 
 a : Anchor
 href : Hypertext REFerence
 
-<<<<<<< CodeSandbox
-
 ### HTML URL
 
-=======
-
-### HTML URL
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_urlencode.asp
+https://www.w3schools.com/html/html_urlencode.asp
 
 인터넷 주소
-<<<<<<< CodeSandbox
 
-=======
-
-- IP(Internet Protocol) 주소 : 192.168.0.1
-  > > > > > > > GitHub
 - IP(Internet Protocol) 주소 : 192.168.0.1
 - 도메인(Domain Name) 주소 : www.naver.com
 - domain -> DNS(Domain Name Server/System) -> ip
 
 URL(Uniform Resource Locator)
-<<<<<<< CodeSandbox
 
-=======
-
-- 자세한 주소
-  > > > > > > > GitHub
 - 자세한 주소
 - 도메인주소 + 해당 페이지 폴더 위치/파일 위치
-  <<<<<<< CodeSandbox
-- # 인터넷 주소를 표현하는 가장 큰 범위
 - 인터넷 주소를 표현하는 가장 큰 범위
-  > > > > > > > GitHub
 - 프로토콜 : http, https, ftp ...
 
-<<<<<<< CodeSandbox
-
 ### HTML File Path
 
-=======
-
-### HTML File Path
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_filepaths.asp
+https://www.w3schools.com/html/html_filepaths.asp
 
 절대 경로
-<<<<<<< CodeSandbox
 
-=======
-
-- 출발 지점에 상관없이 항상 같은 리소스를 찾을 수 있도록 표시하는 주소
-  > > > > > > > GitHub
-- 출발 지점에 상관없이 항상 같은 리소스를 찾을 수 있도록 표시하는 주소
+- 출발 지점에 상관없이 항상 같은 리소스를 찾을 수 있도록 표시하는 주소/경로
 - 장점 : 항상 같은 자원의 위치로 찾아올 수 있음
-- 단점 : 주소 표시 길이가 길다
+- 단점 : 주소 표시 길이 길다
 - Ex) 도메인주소/파일(폴더) 경로 : https://www.w3schools.com/html/html_filepaths.asp
 
 상대 경로
-<<<<<<< CodeSandbox
 
-=======
-
-- 출발 지점을 기준으로 리소스 경로를 표시하는 주소/경로
-  > > > > > > > GitHub
 - 출발 지점을 기준으로 리소스 경로를 표시하는 주소/경로
 - 장점 : 주소 표시 길이가 상대적으로 짧음
 - 단점 : 기준에 따라서 표시 방식이 매번 달라짐
 - Ex) 파일(폴더) 경로 : html/html_filepaths.asp , ../html/html_filepaths.asp
 - Ex) 루트 상대 경로 : /html/html_filepaths.asp
 
-<<<<<<< CodeSandbox
-
 ### HTML Table
 
-=======
-
-### HTML Table
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_tables.asp
+https://www.w3schools.com/html/html_tables.asp
 
 table generator
 https://www.tablesgenerator.com/html_tables
 
-<<<<<<< CodeSandbox
-
 ### HTML List
 
-=======
-
-### HTML List
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_lists.asp
+https://www.w3schools.com/html/html_lists.asp
 
 중첩목록(Nested List) : 여러 수준(레벨)으로 구성된 목록
 
-<<<<<<< CodeSandbox
-
 ### HTML Images
 
-=======
-
-### HTML Images
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_images.asp
+https://www.w3schools.com/html/html_images.asp
 
 alt : alternative
-
-<<<<<<< CodeSandbox
-
-### HTML Video
-
-=======
-
-### HTML Video
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html5_video.asp
-
-<<<<<<< CodeSandbox
-
-### HTML Youtube
-
-=======
-
-### HTML Youtube
-
-> > > > > > > GitHub
-> > > > > > > https://www.w3schools.com/html/html_youtube.asp
-
-<<<<<<< CodeSandbox
-
-### HTML Semantics
-
-=======
-alt : alternative
-
-> > > > > > > GitHub
-
-<<<<<<< CodeSandbox
-https://www.w3schools.com/html/html5_semantic_elements.asp
-
-### HTML Block & Inline
-
-=======
 
 ### HTML Video
 
 https://www.w3schools.com/html/html5_video.asp
 
-> > > > > > > GitHub
+### HTML Youtube
 
-<<<<<<< CodeSandbox
-https://www.w3schools.com/html/html_blocks.asp
+https://www.w3schools.com/html/html_youtube.asp
 
-> 포함관계에 대한 특성
->
-> - 블럭요소 : 다른 블럭요소, 인라인 요소, 콘텐츠 모두 포함 가능
-> - # 인라인 요소 : 다른 인라인 요소, 콘텐츠는 포함 가능, 블럭 요소는 포함 불가능
+alt : alternative
+
+### HTML Video
+
+https://www.w3schools.com/html/html5_video.asp
 
 ### HTML Youtube
 
 https://www.w3schools.com/html/html_youtube.asp
 
-> > > > > > > GitHub
->
-> - 예외 : a - 인라인 요소이지만 블럭요소도 포함
+### HTML Semantics
 
-<<<<<<< CodeSandbox
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+### HTML Block & Inline
+
+https://www.w3schools.com/html/html_blocks.asp
+
+> 포함관계에 대한 특성
+>
+> - 블럭요소 : 다른 블럭요소, 인라인 요소, 콘텐츠 모두 포함 가능
+> - 인라인 요소 : 다른 인라인 요소, 콘텐츠는 포함 가능, 블럭 요소는 포함 불가능
+> - 예외 : a - 인라인 요소이지만 블럭요소도 포함 가능
 
 ### HTML Entities
 
-=======
-
-> > > > > > > GitHub
-
-<<<<<<< CodeSandbox
 https://www.w3schools.com/html/html_entities.asp
-=======
-
-> > > > > > > GitHub
 
 > HTML 마크업 용도로 Fix된 기호는 대체 코드를 사용
 > <, >, &, ", '
-> 공백을 여러칸 띄울 때 : 대체 코드를 사용
+> 공백을 여러칸 띄울 때 : 대체코드를 사용
 > 브라우저 렌더링용 대체코드 : ⓒ => &copy;
 
 ### HTML id, class
 
 https://www.w3schools.com/html/html_id.asp
-https://www.w3schools.com/html/html_id.asp
+https://www.w3schools.com/html/html_classes.asp
 
 > id 특성
 >
 > - 하나의 HTML 문서 내에서 동일한 id 이름을 사용할 수 없음.
 > - 하나의 HTML 문서 내에서 고유해야 함.
 > - 하나의 HTML Element에 id이름을 여러 개 붙일 수 없음.
-
+>
 > class 특성
 >
 > - 하나의 HTML 문서 내에서 동일한 class이름을 여러번 사용할 수 있음.
-> - 하나의 HTML Element에 여러가지 Class이름을 붙일 수 있음.
+> - 하나의 HTML Element에 여러가지 class이름을 붙일 수 있음.
 
 ## CSS
 
-### CSS Introduciton
+### CSS Introduction
 
 https://www.w3schools.com/css/css_intro.asp
 
@@ -386,6 +215,73 @@ https://www.w3schools.com/css/css_syntax.asp
 
 https://www.w3schools.com/css/css_selectors.asp
 
-### How To CSS
+### CSS How To
 
 https://www.w3schools.com/css/css_howto.asp
+
+> js에서 css를 제어할 때 인라인 방식으로 제어함.
+
+### CSS Text
+
+https://www.w3schools.com/css/css_text.asp
+
+### CSS Font
+
+https://www.w3schools.com/css/css_font.asp
+
+> Web Font
+>
+> - Goolgle Font : https://fonts.google.com/ (영문, 한글)
+> - Noonnu Font : https://noonnu.cc/ (한글)
+
+### CSS Box Model
+
+https://www.w3schools.com/css/css_boxmodel.asp
+
+> Box Model 구성 요소
+>
+> - Content(width/height)
+> - padding
+> - border
+> - margin
+
+### CSS width/height
+
+https://www.w3schools.com/css/css_dimension.asp
+
+> width/height 기본특성
+>
+> - 블럭 요소 : width는 부모요소에 맞춰져서 채워짐, height는 자식요소에 맞춰짐.
+> - 인라인 요소 : width/height 적용되지 않음 - 레이아웃 구성 용도로 사용하지 않음.
+
+> 단위
+>
+> - px : px 값으로 고정
+> - % : 부모요소를 기준으로 특정 비율크기로 설정
+
+### CSS Padding
+
+https://www.w3schools.com/css/css_padding.asp
+
+### CSS Margin
+
+https://www.w3schools.com/css/css_margin.asp
+
+### CSS Border
+
+https://www.w3schools.com/css/css_border.asp
+
+### CSS Background
+
+https://www.w3schools.com/css/css_background.asp
+
+\*\* CSS 상속
+
+> 부모요소에 적용된 CSS style이 자식요소에 적용되는 것
+
+\*\* CSS color 코드값
+
+> CSS에서 16진수 코드값과 10진수 코드값을 사용할 수 있음.
+> 16진수 코드값 : #16진수숫자 6자리
+> 10진수 코드값 : RGB(10진수숫자, 10진수숫자, 10진수숫자)
+> 100진수코드값 + 투명도 표시 : RGBA(10진수숫자, 10진수숫자, 10진수숫자, a)
